@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@polar/polar": "3.0.0-alpha.3"
+    "@polar/polar": "3.0.0-alpha.4"
   },
   "devDependencies": {
     "vite": "^7.0.0"
